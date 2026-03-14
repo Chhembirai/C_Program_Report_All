@@ -10,3 +10,5 @@ myprogram
 *.out
 bin/
 *.exe
+a*
+!a*.c

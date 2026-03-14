@@ -5,10 +5,5 @@
 *.json
 
 #ignore compiled files and GCC output
-myprogram
-*.o
-*.out
-bin/
-*.exe
 a*
-!a*.c
+q*

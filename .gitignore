@@ -4,9 +4,7 @@
 #ignore JSON files
 *.json
 
-#ignore compiled files
-*.class
-*.o
-*.so
-*.dll
+#ignore compiled files and GCC output
+a.out
+bin/
 *.exe

@@ -5,6 +5,8 @@
 *.json
 
 #ignore compiled files and GCC output
-a.out
+myprogram
+*.o
+*.out
 bin/
 *.exe

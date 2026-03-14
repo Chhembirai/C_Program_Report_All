@@ -1,0 +1,12 @@
+#ignore vscode settings and launch files
+.vscode/
+
+#ignore JSON files
+*.json
+
+#ignore compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe

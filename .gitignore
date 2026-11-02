@@ -5,6 +5,11 @@
 *.json
 
 #ignore compiled files and GCC output
-a*
-q*
-p*
+a[0-9]*
+q[0-9]*
+p[0-9]*
+!a*.c
+!p*.c
+!q*.c
+*.txt
+*.out

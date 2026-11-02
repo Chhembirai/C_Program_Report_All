@@ -7,3 +7,4 @@
 #ignore compiled files and GCC output
 a*
 q*
+p*

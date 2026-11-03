@@ -10,7 +10,7 @@ This repository includes all the source code files of C-Programming given as lab
 - GitHub
 
 ## Repository Structure
-C_P_Lab_All
+- C_P_Lab_All
     - Unit-1
     - Unit-2
     - Unit-3
